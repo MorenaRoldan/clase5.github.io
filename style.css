@@ -1,0 +1,34 @@
+.dias{
+    font-size: 20px;
+}
+.diahabil{
+    background-color: aqua;
+}
+.sabado{
+    background-color: blue;
+}
+.domingo{
+    background-color: brown;
+}
+/*titulo de la tabla*/
+caption{
+    font-size: 30px;
+    color:  chartreuse;
+}
+header,footer{
+    width: 100%;height: 200px;
+    background-color: mediumvioletred;
+    border: 4px double;
+    padding: 2em;
+    margin-left: -10px;
+    
+}
+header{
+    margin-top: -10px;
+}
+footer{
+    margin-top: 10px;
+}
+form{
+    border-style: groove;
+}
